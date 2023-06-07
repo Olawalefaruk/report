@@ -231,7 +231,7 @@ flex-direction: column;
   }
   
   .first-box {
-    height: 52vh;
+    height: 50vh;
     width: 90%;
     margin-top: 0;
     margin-bottom: -25px;
@@ -245,7 +245,7 @@ flex-direction: column;
   
   .second-box {
     background-color: white;   
-    height: auto;
+    height: 45vh;
     width: 90%;
     border: none;
     border-radius: 0;
