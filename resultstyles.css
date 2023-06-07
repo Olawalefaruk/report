@@ -228,11 +228,10 @@ flex-direction: column;
     flex-direction: column;
     height: auto;
     width: 100%;
-    background-color: black;
   }
   
   .first-box {
-    height: auto;
+    height: 52vh;
     width: 90%;
     margin-top: 0;
     margin-bottom: -25px;
@@ -240,7 +239,6 @@ flex-direction: column;
     padding: 16px;
     border-radius: 0 0 30px 30px;
     display: flex;
-    flex-basis: 100%;
     z-index: 100;
     background: linear-gradient(to top, blue, rgb(142, 142, 255));
   }
@@ -254,7 +252,7 @@ flex-direction: column;
     margin: 0;
     margin-bottom: 0;
     display: flex;
-    flex-basis: 100%;
+    
   }
   
   .continue-button{
